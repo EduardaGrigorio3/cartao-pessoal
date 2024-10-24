@@ -1,0 +1,36 @@
+img {
+    max-height: 30px;
+    max-width: 30px;
+    border-radius: 30%; 
+}
+
+.profile-card {
+    background-color: rgb(246, 246, 246);
+    max-height: 200px;
+    min-height: 100px;
+    max-width: 400px;
+    min-width: 250px;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    border: solid 1px #a49f9f; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+}
+
+h2 {
+    color: #343;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+p {
+    color: #343;
+    font-size: 16px;
+    line-height: 0.5;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+   
+}
